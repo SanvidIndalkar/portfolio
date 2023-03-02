@@ -1,6 +1,6 @@
 [Link to another page](./another-page.html).
 
-Below are the few projects I have made on topics like Data Visualization and Machine Learning.
+Below are the few projects I have made on topics like React.js ,HTML and CSS.
 
 ## Project Number 1
 
